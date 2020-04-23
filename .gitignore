@@ -1,0 +1,6 @@
+#Basic files to ignore
+
+.idea/**
+credentials.json
+token.json
+config.json
